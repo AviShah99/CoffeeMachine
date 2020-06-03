@@ -1,2 +1,2 @@
 # CoffeeMachine
-Coffee Machine code Using Java
+Coffee Machine Console Application  Using Java
